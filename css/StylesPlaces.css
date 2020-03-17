@@ -1,12 +1,12 @@
 h1 {
-   color: red; 
+   color: darkred; 
    text-align: center;
 }
 p {
   font-style: sans-serif;
-  color: red;
+  color: crimson;
 }
 ul {
   font-style: oblique;
-  color: red;
+  color: salmon;
 }
