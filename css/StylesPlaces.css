@@ -8,5 +8,8 @@ p {
 }
 ul {
   font-style: oblique;
-  color: salmon;
+  color: red;
+}
+body {
+  background-color: salmon;
 }
